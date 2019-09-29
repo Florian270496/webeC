@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/storybook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,7 @@
       <updated>1568646501672</updated>
       <workItem from="1568646503072" duration="2026000" />
       <workItem from="1569693988880" duration="1151000" />
-      <workItem from="1569785058414" duration="2693000" />
+      <workItem from="1569785058414" duration="2955000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1568646575963</created>
@@ -269,11 +269,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569787434378</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="changed table in storybook.html">
+      <created>1569787779296</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569787779296</updated>
+    </task>
+    <task id="LOCAL-00019" summary="changed table in storybook.html">
+      <created>1569787833741</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569787833741</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5870000" />
+    <option name="totallyTimeSpent" value="6132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
@@ -358,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/storybook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
