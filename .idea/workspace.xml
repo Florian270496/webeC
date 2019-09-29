@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="290de928-88a5-49e3-915f-30097e738068" name="Default Changelist" comment="" />
+    <list default="true" id="290de928-88a5-49e3-915f-30097e738068" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/storybook.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/storybook.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/storybook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-607">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="221">
+              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -146,7 +148,7 @@
       <updated>1568646501672</updated>
       <workItem from="1568646503072" duration="2026000" />
       <workItem from="1569693988880" duration="1151000" />
-      <workItem from="1569785058414" duration="5298000" />
+      <workItem from="1569785058414" duration="5564000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1568646575963</created>
@@ -442,11 +444,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569790335111</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="changed style in storybook.html">
+      <created>1569790533605</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1569790533605</updated>
+    </task>
+    <task id="LOCAL-00044" summary="changed style in storybook.html">
+      <created>1569790607414</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1569790607414</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8475000" />
+    <option name="totallyTimeSpent" value="8741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
@@ -532,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/storybook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-607">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="221">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
         </state>
       </provider>
     </entry>
