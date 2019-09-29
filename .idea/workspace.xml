@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="290de928-88a5-49e3-915f-30097e738068" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/storybook.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/storybook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/storybook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+            <state relative-caret-position="-765">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,7 @@
       <updated>1568646501672</updated>
       <workItem from="1568646503072" duration="2026000" />
       <workItem from="1569693988880" duration="1151000" />
-      <workItem from="1569785058414" duration="3212000" />
+      <workItem from="1569785058414" duration="3464000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1568646575963</created>
@@ -304,14 +304,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569788117687</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="changed style in storybook.html">
+      <created>1569788505680</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569788505680</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changed style in storybook.html">
+      <created>1569788541640</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569788541640</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6389000" />
+    <option name="totallyTimeSpent" value="6641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1719" height="932" extended-state="7" />
+    <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18400481" />
@@ -357,7 +371,8 @@
     <MESSAGE value="added storybook.html" />
     <MESSAGE value="added table in storybook.html" />
     <MESSAGE value="changed table in storybook.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed table in storybook.html" />
+    <MESSAGE value="changed style in storybook.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed style in storybook.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.md">
@@ -393,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/storybook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        <state relative-caret-position="-765">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
