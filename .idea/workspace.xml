@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/storybook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="-51">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,7 @@
       <updated>1568646501672</updated>
       <workItem from="1568646503072" duration="2026000" />
       <workItem from="1569693988880" duration="1151000" />
-      <workItem from="1569785058414" duration="2955000" />
+      <workItem from="1569785058414" duration="3212000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1568646575963</created>
@@ -283,14 +283,35 @@
       <option name="project" value="LOCAL" />
       <updated>1569787833741</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="changed table in storybook.html">
+      <created>1569788045486</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569788045486</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changed table in storybook.html">
+      <created>1569788097051</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1569788097051</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changed table in storybook.html">
+      <created>1569788117687</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569788117687</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6132000" />
+    <option name="totallyTimeSpent" value="6389000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
+    <frame x="-6" y="-6" width="1719" height="932" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18400481" />
@@ -372,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/storybook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="-51">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
         </state>
       </provider>
     </entry>
